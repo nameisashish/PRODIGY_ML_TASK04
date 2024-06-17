@@ -1,1 +1,2 @@
-# PRODIGY_ML_TASK03
+# PRODIGY_ML_TASK04
+RODIGY INFOTECH MACHINE LEARNING TASK 04 Problem Statement - Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems. From this I have learnt the layers of keras, relu, image processing, model graphs like model accuracy and model loss.
